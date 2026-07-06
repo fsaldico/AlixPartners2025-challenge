@@ -25,5 +25,3 @@ El desarrollo técnico fue estructurado en un cuaderno predictivo interactivo (`
 *   **Lenguaje:** Python 3.x
 *   **Librerías Críticas:** Pandas, NumPy, Matplotlib, Seaborn.
 *   **Entorno:** Google Colab Cloud Infrastructure conectado de forma nativa.
-
-*   ![Análisis Operativo](grafico_ventas_asterion.png)
